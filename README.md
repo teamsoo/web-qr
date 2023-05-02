@@ -1,4 +1,4 @@
-# Web QR by Siwawes Wongcharoen
+# Web QR by Team
 
 ## Stack
 
@@ -7,4 +7,4 @@
 
 ## Demo
 
-<https://puuga.github.io/web-qr>
+<https://teamsoo.github.io/web-qr>
